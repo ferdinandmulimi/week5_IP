@@ -1,0 +1,25 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+"engines": {
+  "node": "18.x"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdinandmulimi/week5_IP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdinandmulimi/week5_IP/issues"
+  },
+  "homepage": "https://github.com/ferdinandmulimi/week5_IP#readme"
+   }
